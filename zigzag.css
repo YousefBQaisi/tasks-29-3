@@ -1,0 +1,90 @@
+#yellow{
+    border: solid black;
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+}
+
+#green{
+    border: solid black;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 80px;
+}
+#yellow1{
+    border: solid black;
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 160px;
+    bottom: 160px;
+}
+#green1{
+    border: solid black;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 240px;
+    bottom: 160px;
+}
+#yellow2{
+    border: solid black;
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 320px;
+    bottom: 320px;
+}
+#green2{
+    border: solid black;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 400px;
+    bottom: 320px;
+
+}
+#yellow3{
+    border: solid black;
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 480px;
+    bottom: 480px;
+}
+#green3{
+    border: solid black;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 560px;
+    bottom: 480px;
+
+}
+#yellow4{
+    border: solid black;
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 640px;
+    bottom: 640px;
+}
+#green4{
+    border: solid black;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    left: 720px;
+    bottom: 640px;
+
+}

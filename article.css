@@ -1,0 +1,24 @@
+#art1{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+    margin-right: 20%;
+
+}
+#art2{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+    margin-right: 20%;
+
+}
+
+#art3{
+    background-color: white;
+    border-style: dotted;
+    border-color: crimson;
+    margin: 5px;
+    margin-right: 20%;
+}

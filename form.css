@@ -1,0 +1,67 @@
+
+
+
+fieldset{
+    background-color: bisque;
+    margin: auto;
+    width: 30%;
+    
+}
+
+
+#label1{
+    display: inline;
+    margin: 20px;
+    position: relative;
+    top: -2px;
+}
+#label2{
+    display: inline;
+    margin: 20px;
+    position: relative;
+    top: 1px;
+}
+#label3{
+    display: inline;
+    margin: 20px;
+    position: relative;
+    top: 4px;
+
+}
+
+
+
+
+#input1{
+    display: inline;
+    margin: 48px;
+    position: relative;
+    top: -2px;
+}
+
+#input2{
+    display: inline;
+    margin: 50px;
+    position: relative;
+    top: 1px;
+}
+
+#input3{
+    display: inline;
+    margin: 26px;
+    position: relative;
+    top: 4px;
+    
+}
+
+#gender{
+    position: relative;
+    top: 6px;
+}
+
+#select{
+    display: inline;
+    margin: 26px;
+    position: relative;
+    left: 120px;
+}
